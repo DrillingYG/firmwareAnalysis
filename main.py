@@ -1,8 +1,7 @@
 import os
 
 if __name__ == '__main__':
-
-    root = "G:\\내 드라이브\\Lab\\Network Storage Artifact\\실험\\Firmware Analysis\\volume-0"
+    root = "Y:\\내 드라이브\\Lab\\Network Storage Artifact\\실험\\Firmware Analysis\\volume-0"
     dir_list = os.listdir(root)
 
     for dirname in dir_list:
